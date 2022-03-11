@@ -1,0 +1,45 @@
+D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/design/top_sdram.v {1 {vlog -work work -vopt -stats=none D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/design/top_sdram.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module top_sdram
+
+Top level modules:
+	top_sdram
+
+} {} {}} D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/sim/tb_top_sdram.v {1 {vlog -work work -vopt -stats=none D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/sim/tb_top_sdram.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_top_sdram
+
+Top level modules:
+	tb_top_sdram
+
+} {} {}} D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/sim/sdram_model_plus.v {2 {vlog -work work -vopt -stats=none D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/sim/sdram_model_plus.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module sdram_model_plus
+** Warning: D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/sim/sdram_model_plus.v(837): (vlog-2576) [BSOB] - Bit-select into 'Dqm' is out of bounds.
+** Warning: D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/sim/sdram_model_plus.v(838): (vlog-2576) [BSOB] - Bit-select into 'Dqm' is out of bounds.
+
+Top level modules:
+	sdram_model_plus
+
+} {} {}} D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/design/sdram_init.v {1 {vlog -work work -vopt -stats=none D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/design/sdram_init.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module sdram_init
+
+Top level modules:
+	sdram_init
+
+} {} {}} D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/design/sdram_ref.v {1 {vlog -work work -vopt -stats=none D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/design/sdram_ref.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module sdram_ref
+
+Top level modules:
+	sdram_ref
+
+} {} {}} D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/design/sdram_main_ctrl.v {1 {vlog -work work -vopt -stats=none D:/netclass/firstlevel/net26_sdram_read_write_ref/sdram_ctrl_ref/design/sdram_main_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module sdram_main_ctrl
+
+Top level modules:
+	sdram_main_ctrl
+
+} {} {}}
